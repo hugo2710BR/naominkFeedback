@@ -5,7 +5,7 @@
 export const SITE = {
   brand: "Naomink",
   role: "Tattoo Artist",
-  heroImage: "/hero.jpg",
+  heroImage: "/hero.png",
   heroAlt: "Pormenor de tatuagem fine line, três rostos femininos entrelaçados",
   intro:
     "Mostra-nos a tua tatuagem e conta-nos como foi a tua experiência. Cada fotografia passa a fazer parte do mural da Naomink.",
